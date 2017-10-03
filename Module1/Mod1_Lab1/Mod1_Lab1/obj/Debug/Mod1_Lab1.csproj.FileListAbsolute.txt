@@ -1,0 +1,6 @@
+C:\Users\Skcali\dev\Mod1_Lab1\Mod1_Lab1\bin\Debug\Mod1_Lab1.exe.config
+C:\Users\Skcali\dev\Mod1_Lab1\Mod1_Lab1\bin\Debug\Mod1_Lab1.exe
+C:\Users\Skcali\dev\Mod1_Lab1\Mod1_Lab1\bin\Debug\Mod1_Lab1.pdb
+C:\Users\Skcali\dev\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Skcali\dev\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.exe
+C:\Users\Skcali\dev\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.pdb
