@@ -14,3 +14,9 @@ Taking a month long OOP certification course through Microsoft to deepen my OOP 
 * Inheritance
 * Abstract and Sealed Classes
 * Interfaces and Polymorphism
+
+## Module Three - Resources and Memory Management
+
+* Object Lifetime
+* Grabage Collector
+* Disposals and Distructors
